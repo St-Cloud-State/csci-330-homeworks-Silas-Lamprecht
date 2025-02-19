@@ -1,0 +1,10 @@
+Script started on 2025-02-19 03:02:21+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="219" LINES="16"]
+[0;32m@Silas-Lamprecht [0m➜ [1;34m/workspaces/csci-330-homeworks-Silas-Lamprecht/Hwork3 [0;36m([1;31mmain[0;36m) [0m$ exit[Kexitsbcl --script mergeSortBottomUp.lisp[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kinsertionsort.lisp[[K
+"Input string:"
+(8 3 8 1 2 7 4 6) 
+"Output srting:"
+(1 2 4 6 7 3 8 8) 
+[0;32m@Silas-Lamprecht [0m➜ [1;34m/workspaces/csci-330-homeworks-Silas-Lamprecht/Hwork3 [0;36m([1;31mmain[0;36m) [0m$ sbcl --script insertionsort.lispexit[K
+exit
+
+Script done on 2025-02-19 03:02:36+00:00 [COMMAND_EXIT_CODE="0"]

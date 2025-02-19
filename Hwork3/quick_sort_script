@@ -1,0 +1,9 @@
+Script started on 2025-02-19 01:48:22+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="219" LINES="16"]
+[0;32m@Silas-Lamprecht [0m➜ [1;34m/workspaces/csci-330-homeworks-Silas-Lamprecht/Hwork3 [0;36m([1;31mmain[0;36m) [0m$ g++ quicksort.cpp - [Ko quixk[K[Kcksort
+[0;32m@Silas-Lamprecht [0m➜ [1;34m/workspaces/csci-330-homeworks-Silas-Lamprecht/Hwork3 [0;36m([1;31mmain[0;36m) [0m$ ./quicksort
+Original array: 10 7 8 9 1 5 13 3 
+Sorted array: 1 3 5 7 8 9 10 13 
+[0;32m@Silas-Lamprecht [0m➜ [1;34m/workspaces/csci-330-homeworks-Silas-Lamprecht/Hwork3 [0;36m([1;31mmain[0;36m) [0m$ exit
+exit
+
+Script done on 2025-02-19 01:49:22+00:00 [COMMAND_EXIT_CODE="0"]
